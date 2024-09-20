@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AwaasSakhi" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.AwaasSakhi" parent="Base.Theme.AwaasSakhi" />
+
+    <style name="Theme.AwaasApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.AwaasApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- Remove default padding -->
+        <item name="android:padding">0dp</item>
+        <!-- Customize hint text appearance -->
+        <item name="hintTextAppearance">@style/CustomHintTextAppearance</item>
+        <!-- Customize box appearance -->
+        <item name="boxBackgroundMode">outline</item>
+    </style>
+
+    <style name="CustomHintTextAppearance" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/app_color</item>
+    </style>
+</resources>

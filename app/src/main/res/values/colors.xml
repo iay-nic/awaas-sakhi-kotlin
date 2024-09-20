@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+
+    <color name="primary">#212121</color>
+    <color name="green_dark">#004336</color>
+    <color name="green_light">#3c9182</color>
+    <color name="app_color">#3c9182</color>
+    <color name="translucent">#5a000000</color>
+    <color name="grey">#d2d2d2</color>
+    <color name="gray_69">#696969</color>
+    <color name="gray_ed">#EDEDED</color>
+    <color name="orange">#E64A19</color>
+    <color name="grey_a3">#a3a3a3</color>
+    <color name="gray_ac">#acacac</color>
+    <color name="light_grey">#dfdfdf</color>
+
+
+    <color name="black_3c">#3C3C3C</color>
+    <color name="black_71">#717171</color>
+    <color name="black_1E">#1E1E1E</color>
+
+
+    <color name="black_4b">#4B4B4B</color>
+    <color name="baseBackgroundColor">#EDE9E9</color>
+    <color name="stay_color">#999999</color>
+
+
+    <color name="blue_date">#294373</color>
+    <color name="orange_version">#d4631e</color>
+    <color name="blue">#0a64ff</color>
+
+    <color name="red">#DF0D0D</color>
+    <color name="green">#07BA0E</color>
+
+    <color name="success_green">#4BB543</color>
+    <color name="fail_red">#AE4040</color>
+
+
+    <color name="yellow">#FBA220</color>
+
+</resources>
